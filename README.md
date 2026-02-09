@@ -38,7 +38,7 @@
                   │       └── resources/
                   │           └── logback.xml        # Logging configuration
                   │
-                  ├── screenshots/                    # Auto-captured test failure screenshots
+                  ├── screenshots/                   # Auto-captured test failure screenshots
                   ├── logs/                          # Test execution logs
                   │   ├── current-test.log           # Latest test run
                   │   └── test-YYYY-MM-DD.log        # Daily archived logs
