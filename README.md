@@ -92,18 +92,17 @@
 
                       ========================================================
 
-                        This project was built as part of my QA Automation
-                        learning journey, with the goal of writing clean,
-                        maintainable and stable UI automation tests following
-                         real-world best practices and design patterns.
+                          This project was built as part of my QA Automation
+                         learning path and an attempt to fulfill my dream of
+                        working in the field of QA Automation. I tried focusing
+                       on best practices and real-world test automation patterns.
 
-                       The framework focuses on:
-                       - Readable test scenarios
-                       - Reusable Page Objects
-                       - Explicit waits and flakiness reduction
-                       - Proper logging and error handling
-
-                         Thank you for taking the time to review this project.
-                         I hope it can serve as inspiration or reference for
-                           anyone starting their path in QA Automation.
-
+                           The framework focuses on:
+                         - Readable test scenarios
+                         - Reusable Page Objects
+                         - Explicit waits and flakiness reduction
+                         - Proper logging and error handling
+                          
+                          Thank you for giving me a bit of your time by looking at
+                             my little project and I hope I can bring a bit of
+                            inspiration to you guys to build something yourselfs.
