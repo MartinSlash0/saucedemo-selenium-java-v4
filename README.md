@@ -52,8 +52,8 @@
 
                       1) Clone the repository
 
-                      --> git clone https://github.com/your-username/your-repo-name.git
-                      --> cd your-repo-name
+                      --> git clone https://github.com/MartinSlash0/saucedemo-selenium-java-v4.git
+                      --> cd saucedemo-selenium-java-v4
 
                       2) Build the project and download dependencies
 
